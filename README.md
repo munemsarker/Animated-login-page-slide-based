@@ -1,8 +1,9 @@
-## Flutter--
+## Flutter animated login page
 
-A new dart project designed for 
+A new dart project designed for login page of a website
 
 # ScreenShots
+<img src="images/userinter.gif" width="250">
 
 This project is a basic idea of my desire mobile app.
 
